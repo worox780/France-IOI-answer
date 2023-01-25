@@ -1,0 +1,16 @@
+from robot import *
+haut()
+for i in range(4):
+   for k in range(8):
+      haut()
+   droite() 
+   for k in range(8):
+      bas()
+   droite() 
+for k in range(8):
+   haut()
+droite() 
+for k in range(9):
+   bas()
+for k in range(9):  
+   gauche()
