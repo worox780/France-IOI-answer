@@ -4,7 +4,7 @@ The target is only for peoples who doesn't succed the exercice and look for the 
 
 _----------_----------_----------_----------_----------_----------_----------_
 
-Porject :
+Project :
 
 Finalisation : 5%
 Level 1 -> 37.5%
